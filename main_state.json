@@ -1,0 +1,17 @@
+{
+  "calc_mode": "chemistry",
+  "cell": "✓ База: Samsung INR21700-50E — Samsung — 4.9 А·ч — Uном 3.6 В",
+  "chemistry": "NCM811",
+  "consider_dims": true,
+  "bms_side": "сверху",
+  "fields": {
+    "load": "200",
+    "time": "0.5",
+    "depth": "230",
+    "width": "78",
+    "height": "23",
+    "wall": "1",
+    "gap": "2",
+    "bms": "4"
+  }
+}
